@@ -1,4 +1,4 @@
-##Plant-Disease-and-Pesticide-Quantity-Detection 
+**Plant-Disease-and-Pesticide-Quantity-Detection** 
 
 This project focuses on detecting plant diseases and optimizing pesticide quantities for tomato plants using the TomatoVillage dataset. The aim is to improve the accuracy of pesticide application by performing a comprehensive analysis of multilabel leaf data.
 
