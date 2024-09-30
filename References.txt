@@ -1,0 +1,22 @@
+Datasets -->PlantVillage dataset : https://www.kaggle.com/datasets/emmarex/plantdisease
+                    Tomato leaf disease-dataset : https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+
+Disease Detection : Faster-RCNN(Resenet-34), target accuracy - 99.97+
+Reference : https://www.nature.com/articles/s41598-022-21498-5#Abs1
+
+Growth identification --> growth Cycles(1,2,3) -->
+Models:
+Time-series models: LSTM (Long Short-Term Memory) networks, GRU (Gated Recurrent Unit) networks, or traditional statistical time-series models like ARIMA.
+Regression models: Linear regression, polynomial regression, or ensemble methods like Random Forest Regression.
+Deep learning models: CNNs (Convolutional Neural Networks) for image analysis, combined with recurrent layers for sequential data if needed.
+
+Reference : https://www.researchgate.net/publication/376445583_Dataset_of_tomato_plants_growth_observations_obtained_from_multiple_sources_in_a_production-like_setting
+
+Disease Severity --> 
+Reference : https://www.researchgate.net/publication/347155775_Tomato_Leaf_Disease_Diagnosis_and_Severity_Measurement
+
+https://www.researchgate.net/publication/372056966_Severity_Stage_Identification_and_Pest_Detection_of_Tomato_Disease_Using_Deep_Learning
+
+https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-tomato/tomato-diseases-and-symptoms
+
+https://www.nunhems.com/in/en/disease-management/tomato-disease-management.html#accordion_v2-dad3502850-item-96cd61fc59
